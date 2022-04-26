@@ -1,0 +1,5 @@
+cv-venv
+.vscode
+__pycache__
+yolov3/yolov3.weights
+
